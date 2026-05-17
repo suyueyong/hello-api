@@ -1,0 +1,16 @@
+target/
+
+# IntelliJ IDEA local state
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/shelf/
+
+# OS/editor noise
+.DS_Store
+*.iml
+
+# Logs
+*.log
+
+.idea/
