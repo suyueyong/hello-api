@@ -6,6 +6,6 @@ import org.springframework.stereotype.Service;
 @Service
 public class HelloService {
     public HelloResponse getHelloMessage() {
-        return new HelloResponse("Hello");
+        return new HelloResponse("Hello, Welcome");
     }
 }
